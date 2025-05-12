@@ -40,24 +40,24 @@ My research primarily focuses on two areas:
 # Publications
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/PIG.pdf" alt="paper">
+<img src="images/PIG.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang</p>
-<p class="paper-venue">ACL 2025 (Underreview)</p>
+<p class="paper-venue">ACL 2025 (Under review)</p>
 <p class="paper-links"><a href="https://arxiv.org/pdf/xxx">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak">[Code]</a></p>
 </div>
 </div>
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.pdf" alt="paper">
+<img src="images/SymMark.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yubing Ren, Yanan Cao, Binxing Fang</p>
-<p class="paper-venue">ACL 2025 (Underreview)</p>
+<p class="paper-venue">ACL 2025 (Under review)</p>
 <p class="paper-links"><a href="https://arxiv.org/pdf/xxx">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
 </div>
 </div>
