@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the University of Chinese Academy of Sciences, supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I earned my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
+Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the University of Chinese Academy of Sciences (Institute of Information Engineering), supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I earned my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
 My research primarily focuses on two areas:
 - LLM watermarking techniques for AI safety
@@ -153,66 +153,6 @@ My research primarily focuses on two areas:
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/markllm.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">MarkLLM: An Open-Source Toolkit for LLM Watermarking</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">Proceedings of EMNLP 2024 Demo</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2405.10051">[Paper]</a> <a href="https://github.com/THU-BPM/MarkLLM">[Code]</a> <a href="https://colab.research.google.com/drive/169MS4dY6fKNPZ7-92ETz1bAm_xyNAs0B?usp=sharing">[Google Colab]</a> <a href="https://mp.weixin.qq.com/s/lx9ZNeHae4mo1J6_sFubfg">[机器之心]</a></p>
-</div>
-</div>
-
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/survey.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">A Survey of Text Watermarking in the Era of Large Language Models</div>
-<p class="paper-authors">Aiwei Liu*, <strong style="text-decoration-line: underline;">Leyi Pan*</strong>, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, Philip S. Yu</p>
-<p class="paper-venue">ACM Computing Surveys</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2312.07913.pdf">[Paper]</a> <a href="https://survey-text-watermark.github.io/">[Home]</a> <a href="https://mp.weixin.qq.com/s/U3ZzGsi3Yihueqr6MGRHfg">[机器之心]</a> <a href="https://x.com/Aiwei_Liu_99/status/1821673541026099519">[Twitter]</a></p>
-</div>
-</div>
-
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/probe.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">Can Watermarked LLMs be Identified by Users via Crafted Prompts?</div>
-<p class="paper-authors">Aiwei Liu, Sheng Guan, Yiming Liu, <strong style="text-decoration-line: underline;">Leyi Pan</strong>, Yifei Zhang, Liancheng Fang, Lijie Wen, Philip S. Yu, Xuming Hu</p>
-<p class="paper-venue">Proceedings of ICLR 2025</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2410.03168">[Paper]</a> <a href="https://github.com/THU-BPM/Watermarked_LLM_Identification">[Code]</a></p>
-</div>
-</div>
-
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/SIR.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">A Semantic Invariant Robust Watermark for Large Language Models</div>
-<p class="paper-authors">Aiwei Liu, <strong style="text-decoration-line: underline;">Leyi Pan</strong>, Xuming Hu, Shiao Meng, Lijie Wen</p>
-<p class="paper-venue">Proceedings of ICLR 2024</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2310.06356.pdf">[Paper]</a> <a href="https://github.com/THU-BPM/Robust_Watermark">[Code]</a></p>
-</div>
-</div>
-
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/UPV.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">An Unforgeable Publicly Verifiable Watermark for Large Language Models</div>
-<p class="paper-authors">Aiwei Liu, <strong style="text-decoration-line: underline;">Leyi Pan</strong>, Xuming Hu, Shuang Li, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">Proceedings of ICLR 2024</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2307.16230.pdf">[Paper]</a> <a href="https://github.com/THU-BPM/unforgeable_watermark">[Code]</a></p>
-</div>
-</div>
-
 # Project
 <div style="display: flex; flex-direction: column; gap: 20px;">
     <!-- MarkLLM Card -->
@@ -274,10 +214,6 @@ My research primarily focuses on two areas:
 
 - **Email**:
   -  wangyidan@iie.ac.cn
-
-# Services
-- **Program Committee/Reviewer**:
-  -  The Thirteenth International Conference on Learning Representations (ICLR 2025)
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
