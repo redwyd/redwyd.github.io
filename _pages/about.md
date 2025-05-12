@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is **Yidan Wang (Eden)** and I was born in June 2001. I am currently a third-year Ph.D. student at the **Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS)**, under the supervision of Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing)  and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree with a major in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
+Hi! My name is **Yidan Wang (Eden)** and I was born in June 2001. I am currently a third-year Ph.D. student at the **Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS)**, under the supervision of Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing)  and Prof. [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree with a major in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
 My research primarily focuses on two areas:
 - LLM watermarking techniques for AI safety
@@ -64,55 +64,9 @@ Open to collaboration and happy to discuss any shared interests！
 </div>
 </div>
 
-# Project
-<div style="display: flex; flex-direction: column; gap: 20px;">
-    <!-- MarkLLM Card -->
-    <div style="
-        border: 1px solid #e1e4e8;
-        border-radius: 6px;
-        padding: 16px;
-        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
-        background-color: #fff;
-    ">
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-            <div>
-                <svg height="16" viewBox="0 0 16 16" version="1.1" width="16">
-                    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" fill="#586069"></path>
-                </svg>
-                <a href="https://github.com/THU-BPM/MarkLLM" style="
-                    color: #0366d6;
-                    text-decoration: none;
-                    font-weight: 600;
-                    font-size: 14px;
-                    margin-left: 8px;
-                ">THU-BPM/MarkLLM</a>
-            </div>
-            <div style="
-                border: 1px solid #e1e4e8;
-                border-radius: 20px;
-                padding: 0 7px;
-                font-size: 12px;
-                color: #586069;
-            ">Public</div>
-        </div>
-        <p style="
-            font-size: 14px;
-            color: #586069;
-            margin: 8px 0;
-        "><span style="color: #238636; font-weight: 500;">🏆 First Author & First Contributor</span><br> An Open-Source Toolkit for LLM Watermarking (EMNLP 2024 Demo)
-        </p>
-        <div style="display: flex; align-items: center; margin-top: 8px; gap: 8px;">
-            <!-- Language -->
-            <img src="https://img.shields.io/github/languages/top/THU-BPM/MarkLLM?style=flat-square" alt="Language">
-            <!-- Stars -->
-            <img src="https://img.shields.io/github/stars/THU-BPM/MarkLLM?style=flat-square" alt="Stars">
-            <!-- Forks -->
-            <img src="https://img.shields.io/github/forks/THU-BPM/MarkLLM?style=flat-square" alt="Forks">
-            <!-- Last Commit -->
-            <img src="https://img.shields.io/github/last-commit/THU-BPM/MarkLLM?style=flat-square" alt="Last Commit">
-        </div>
-    </div>
-</div>
+# Lectures
+
+- **[Backdoor Attack in NLP]**(https://ascii-iie.github.io/Seminar/230921-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E5%90%8E%E9%97%A8%E6%94%BB%E5%87%BB-%E7%8E%8B%E4%B8%80%E4%B8%B9.pdf)
 
 # Awards
 - **Merit Student of the University of CAS** (中国科学院大学三好学生)
