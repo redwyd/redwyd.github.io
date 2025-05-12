@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi! My name is **Leyi Pan (潘乐怡)**. I am a first-year master's student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). Before that, I received my B.Eng. degree from the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024. 
+Hi! My name is **Yidan Wang (Eden)**. I am a third-year master's student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). Before that, I received my B.Eng. degree from the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024. 
 
 My research focuses on two main areas:
 - AI Safety with an emphasis on watermark for large language models.
@@ -279,9 +279,7 @@ Previously, I was serving as a Research Assistant at [CUHK MISC Lab](https://mis
 # Contact
 
 - **Email**:
-  -  panly24@mails.tsinghua.edu.cn
-  -  panleyi2003@gmail.com
-
+  -  wangyidan@iie.ac.cn
 
 # Services
 - **Program Committee/Reviewer**:
