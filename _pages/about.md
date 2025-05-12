@@ -37,7 +37,7 @@ My research primarily focuses on two areas:
     </div>
 </div>
 
-# Research Paper
+# Publications
 <div class="paper-container">
 <div class="paper-image">
 <img src="images/wn.png" alt="paper">
