@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the University of Chinese Academy of Sciences (Institute of Information Engineering), supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I earned my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
+Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the **University of Chinese Academy of Sciences (UCAS)** (Institute of Information Engineering), supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
 My research primarily focuses on two areas:
 - LLM watermarking techniques for AI safety
@@ -113,16 +113,13 @@ My research primarily focuses on two areas:
 </div>
 
 # Awards
-- **Outstanding Graduate of Beijing** (北京市优秀毕业生)
-- **Outstanding Graduate of Tsinghua** (清华大学优良毕业生)
-- **Tsinghua Outstanding Graduation Project** (清华大学优秀毕业设计)
-- **Tsinghua Excellent Student Award** (清华大学综合优秀奖学金)
-- **Outstanding Student Cadre of Tsinghua University** (清华大学优秀学生干部)
+- **Merit Student of the University of CAS** (中国科学院大学三好学生)
 
 # Contact
 
 - **Email**:
   -  wangyidan@iie.ac.cn
+  -  wangyidan22@mails.ucas.ac.cn
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
