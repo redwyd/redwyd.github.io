@@ -21,12 +21,12 @@ repository               : "redwyd/redwyd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self-photo-new.jpg"
+  avatar           : "myself.png"
   name             : "Yidan Wang"
   pronouns         : 
   bio              : "Ph.D Student @ UCAS"
-  location         : " Beijing"
-  employer         : " UCAS (IIE)"
+  location         : "Beijing, China"
+  employer         : "UCAS"
   uri              : 
   email            : "wangyidan@iie.ac.cn" 
 
