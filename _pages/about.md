@@ -75,7 +75,9 @@ Open to collaboration and happy to discuss any shared interests！
 - **Merit Student of the University of CAS** (中国科学院大学三好学生)
 
 # Motto
+<div class="intro-container">
 What is now proved was once only imagined.
+</div>
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
