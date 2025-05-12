@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leyi Pan"
+title                    : "Yidan Wang"
 title_separator          : "-"
-name                     : &name "Leyi"
-description              : &description " Master Student @ Tsinghua University"
+name                     : &name "Eden"
+description              : &description " Ph.D Student @ UCAS"
 url                      : https://panly2003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "panly2003/panly2003.github.io"
+repository               : "redwyd/redwyd.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "panly2003/panly2003.github.io"
 author:
   # Biographic information
   avatar           : "self-photo-new.jpg"
-  name             : "Leyi Pan"
+  name             : "Yidan Wang"
   pronouns         : 
-  bio              : "Master Student @ Tsinghua University"
+  bio              : "Ph.D Student @ UCAS"
   location         : " Beijing"
-  employer         : " Tsinghua University"
+  employer         : " UCAS (IIE)"
   uri              : 
   email            : "panly24@mails.tsinghua.edu.cn" 
 
@@ -35,13 +35,13 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4b-1Os8AAAAJ"
   impactstory      : # URL
   orcid            : 
-  github           : "panly2003"
+  github           : "redwyd"
   pubmed           : 
   researchgate     : # URL
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "panly2003"
+  github           : "redwyd"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
