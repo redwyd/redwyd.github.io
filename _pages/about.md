@@ -74,11 +74,8 @@ Open to collaboration and happy to discuss any shared interests！
 # Awards
 - **Merit Student of the University of CAS** (中国科学院大学三好学生)
 
-# Contact
-
-- **Email**:
-  -  wangyidan@iie.ac.cn
-  -  wangyidan22@mails.ucas.ac.cn
+# Motto
+What is now proved was once only imagined.
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
