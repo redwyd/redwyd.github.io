@@ -1,23 +1,17 @@
 ---
 permalink: /
-title: "Bio"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the University of Chinese Academy of Sciences, supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I earned my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
-Hi! My name is **Yidan Wang (Eden)**. I am a third-year master's student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). Before that, I received my B.Eng. degree from the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024. 
-
-My research focuses on two main areas:
-- AI Safety with an emphasis on watermark for large language models.
-- Post-training methods to enhance reasoning capabilities of multimodal large language models.
-
-I am currently serving as a Research Intern at [Zhipu AI](https://www.zhipuai.cn/), where I am working under the supervision of Dr. [Shiyu Huang](http://tartrl.cn/hsy).
-
-Previously, I was serving as a Research Assistant at [CUHK MISC Lab](https://misc-lab.cse.cuhk.edu.hk/), working under the supervision of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) (ACM Fellow, IEEE Fellow).
-
+My research primarily focuses on two areas:
+- LLM watermarking techniques for AI safety
+- LLM attacks and defenses in natural language processing
 
 # Education
 
