@@ -66,7 +66,10 @@ Open to collaboration and happy to discuss any shared interests！
 
 # Lectures
 
-- **[Backdoor Attack in NLP]**(https://ascii-iie.github.io/Seminar/230921-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E5%90%8E%E9%97%A8%E6%94%BB%E5%87%BB-%E7%8E%8B%E4%B8%80%E4%B8%B9.pdf)
+- **[Backdoor Attacks in NLP]**(https://github.com/redwyd/redwyd.github.io/blob/main/lectures/NLP%20Backdoor%20Attack.pdf)
+- **[Privacy Attacks in NLP]**(https://github.com/redwyd/redwyd.github.io/blob/main/lectures/Privacy%20Attacks%20in%20LLM.pdf)
+- **[LLM Attacks in NLP]**(https://github.com/redwyd/redwyd.github.io/blob/main/lectures/LLM%20Attacks%20in%20NLP.pdf)
+- **[Multi-bit Watermark in NLP]**(https://github.com/redwyd/redwyd.github.io/blob/main/lectures/Multi-bit%20Watermark.pdf)
 
 # Awards
 - **Merit Student of the University of CAS** (中国科学院大学三好学生)
