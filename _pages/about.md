@@ -87,7 +87,7 @@ Yesterday is history, tomorrow is a mystery, but today is the present.
   margin: 1.5em 0 2em 0;
   padding: 1.5em;
   background: linear-gradient(to right, #f9f9f9, #f3f3f3);
-  border-left: 4px solid #FCF259;
+  border-left: 4px solid #FFCFCF;
   border-radius: 0 8px 8px 0;
   box-shadow: 0 3px 10px rgba(0,0,0,0.05);
   font-size: 1.1rem;
