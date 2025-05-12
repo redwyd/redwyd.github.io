@@ -76,7 +76,7 @@ Open to collaboration and happy to discuss any shared interests！
 
 # Motto
 <div class="intro-container">
-What is now proved was once only imagined.
+Yesterday is history, tomorrow is a mystery, but today is the present.
 </div>
 
 <p align="center" style="padding-top: 100px;"> 
@@ -87,7 +87,7 @@ What is now proved was once only imagined.
   margin: 1.5em 0 2em 0;
   padding: 1.5em;
   background: linear-gradient(to right, #f9f9f9, #f3f3f3);
-  border-left: 4px solid #FF8282;
+  border-left: 4px solid #FFA955;
   border-radius: 0 8px 8px 0;
   box-shadow: 0 3px 10px rgba(0,0,0,0.05);
   font-size: 1.1rem;
@@ -98,9 +98,9 @@ What is now proved was once only imagined.
 }
 
 .intro-container a {
-  color: #FF8282;
+  color: #FFA955;
   text-decoration: none;
-  border-bottom: 1px dotted #FF8282;
+  border-bottom: 1px dotted #FFA955;
   transition: all 0.2s ease;
 }
 
