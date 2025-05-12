@@ -83,6 +83,32 @@ What is now proved was once only imagined.
 </p>
 
 <style>
+.intro-container {
+  margin: 1.5em 0 2em 0;
+  padding: 1.5em;
+  background: linear-gradient(to right, #f9f9f9, #f3f3f3);
+  border-left: 4px solid #632991;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+  font-size: 1.1rem;
+}
+
+.intro-container p {
+  margin-bottom: 1em;
+}
+
+.intro-container a {
+  color: #632991;
+  text-decoration: none;
+  border-bottom: 1px dotted #632991;
+  transition: all 0.2s ease;
+}
+
+.intro-container a:hover {
+  color: #8244b8;
+  border-bottom: 1px solid #8244b8;
+}
+  
 .paper-container {
     display: flex;
     gap: 20px;
