@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the **University of Chinese Academy of Sciences (UCAS)** (Institute of Information Engineering), supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
+Hello! My name is **Yidan Wang (Eden)**. I am a third-year Ph.D. student at the **University of Chinese Academy of Sciences (UCAS)** (Institute of Information Engineering), supervised by Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree with a major in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
 My research primarily focuses on two areas:
 - LLM watermarking techniques for AI safety
@@ -40,25 +40,25 @@ My research primarily focuses on two areas:
 # Publications
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/wn.png" alt="paper">
+<img src="images/PIG.pdf" alt="paper">
 </div>
 <div class="paper-text">
-<div class="paper-title">Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">arXiv preprint arXiv:2502.11598</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2502.11598">[Paper]</a> <a href="https://github.com/THU-BPM/Watermark-Radioactivity-Attack">[Code]</a></p>
+<div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang</p>
+<p class="paper-venue">ACL 2025 (Underreview)</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/xxx">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak">[Code]</a></p>
 </div>
 </div>
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/waterseeker.png" alt="paper">
+<img src="images/SymMark.pdf" alt="paper">
 </div>
 <div class="paper-text">
-<div class="paper-title">WaterSeeker: Pioneering Efficient Detection of Watermarked Segments in Large Documents</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Yijian Lu, Zitian Gao, Yichen Di, Shiyu Huang, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">Findings of NAACL 2025, AAAI 2025 Workshop PDLM (Oral)</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2409.05112">[Paper]</a> <a href="https://github.com/THU-BPM/WaterSeeker">[Code]</a></p>
+<div class="paper-title">From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yubing Ren, Yanan Cao, Binxing Fang</p>
+<p class="paper-venue">ACL 2025 (Underreview)</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/xxx">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
 </div>
 </div>
 
