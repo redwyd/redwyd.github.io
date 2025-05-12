@@ -17,116 +17,25 @@ My research primarily focuses on two areas:
 
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/tsinghua.svg" alt="Tsinghua University Logo" style="width: 80px; height: auto;">
+        <img src="images/sdu.svg" alt="Shandong University Logo" style="width: 80px; height: auto;">
     </div>
     <div>
-        <div style="font-weight: bold;">Tsinghua University, China</div>
-        <div style="font-style: italic;">Master's Student in Software Engineering</div>
-        <div>Sept. 2024 - June 2027 (Expected)</div>
+        <div style="font-weight: bold;">Shandong University, China</div>
+        <div style="font-style: italic;">B.E. in Cyberspace Security</div>
+        <div>Sept. 2018 - June 2022</div>
     </div>
 </div>
 
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/tsinghua.svg" alt="Tsinghua University Logo" style="width: 80px; height: auto;">
+        <img src="images/ucas.svg" alt="UCAS Logo" style="width: 80px; height: auto;">
     </div>
     <div>
-        <div style="font-weight: bold;">Tsinghua University, China</div>
-        <div style="font-style: italic;">B.E. in Software Engineering</div>
-        <div>Sept. 2020 - June 2024</div>
+        <div style="font-weight: bold;">University of Chinese Academy of Sciences</div>
+        <div style="font-style: italic;">Ph.D Student in Institute of Information Engineering, CAS</div>
+        <div>Sept. 2022 - June 2027 (Expected)</div>
     </div>
 </div>
-
-# Work Experience
-
-<div style="display: flex; margin-bottom: 2em; align-items: center;">
-    <div style="margin-right: 2em;">
-        <img src="images/zhipu-1.svg" alt="Zhipu Logo" style="width: 80px; height: auto;">
-    </div>
-    <div>
-        <div style="font-weight: bold;">Zhipu AI, China</div>
-        <div style="font-style: italic;">Large Multimodal Model Research Intern</div>
-        <div>Oct. 2024 - Present</div>
-    </div>
-</div>
-
-<div style="display: flex; margin-bottom: 2em; align-items: center;">
-    <div style="margin-right: 2em;">
-        <img src="images/cuhk.svg" alt="CUHK Logo" style="width: 80px; height: auto;">
-    </div>
-    <div>
-        <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
-        <div style="font-style: italic;">Research Assistant</div>
-        <div>Jun. 2024 - Aug. 2024</div>
-    </div>
-</div>
-
-<div style="display: flex; margin-bottom: 2em; align-items: center;">
-    <div style="margin-right: 2em;">
-        <img src="images/kuaishou.svg" alt="KuaiShou Logo" style="width: 80px; height: auto;">
-    </div>
-    <div>
-        <div style="font-weight: bold;">KuaiShou Technology, China</div>
-        <div style="font-style: italic;">Software Engineer Intern</div>
-        <div>Jun. 2023 - Aug. 2023</div>
-    </div>
-</div>
-
-<!-- <div style="display: flex; margin-bottom: 2em; align-items: flex-start;">
-    <div style="margin-right: 2em;">
-        <img src="images/zhipu-1.svg" alt="Zhipu Logo" style="width: 80px; height: auto;">
-    </div>
-    <div style="flex: 1; display: flex; gap: 2em;">
-        <div style="min-width: 200px;">
-            <div style="font-weight: bold;">Zhipu AI, China</div>
-            <div style="font-style: italic;">LLM Research Intern</div>
-            <div>Oct. 2024 - Present</div>
-        </div>
-        <div style="flex: 1; padding: 1em; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6;">
-            <ul style="list-style-type: disc; margin-left: 1.5em;">
-                <li>Exploring post-training strategies to enhance general reasoning capabilities of large multimodal models.</li>
-                <li>Research on robustness of LLM Watermark against unauthorized knowledge distillation.</li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-<div style="display: flex; margin-bottom: 2em; align-items: flex-start;">
-    <div style="margin-right: 2em;">
-        <img src="images/cuhk.svg" alt="CUHK Logo" style="width: 80px; height: auto;">
-    </div>
-    <div style="flex: 1; display: flex; gap: 2em;">
-        <div style="min-width: 200px;">
-            <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
-            <div style="font-style: italic;">Research Assistant</div>
-            <div>Jun. 2024 - Aug. 2024</div>
-        </div>
-        <div style="flex: 1; padding: 1em; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6;">
-            <ul style="list-style-type: disc; margin-left: 1.5em;">
-                <li>Propose a new universal watermark detection method named WaterSeeker for efficiently detecting watermark fragments in large documents, achieving a good balance between time complexity and detection performance.</li>
-                <li>Published a conference paper at NAACL 2025.</li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-<div style="display: flex; margin-bottom: 2em; align-items: flex-start;">
-    <div style="margin-right: 2em;">
-        <img src="images/kuaishou.svg" alt="KuaiShou Logo" style="width: 80px; height: auto;">
-    </div>
-    <div style="flex: 1; display: flex; gap: 2em;">
-        <div style="min-width: 200px;">
-            <div style="font-weight: bold;">KuaiShou Technology, China</div>
-            <div style="font-style: italic;">Software Engineer Intern</div>
-            <div>Jun. 2023 - Aug. 2023</div>
-        </div>
-        <div style="flex: 1; padding: 1em; background-color: #f8f9fa; border-radius: 8px; border: 1px solid #dee2e6;">
-            <ul style="list-style-type: disc; margin-left: 1.5em;">
-                <li>Improve KuaiAgent's capability to reason about and solve time-sensitive problems via tool using.</li>
-            </ul>
-        </div>
-    </div>
-</div> -->
 
 # Research Paper
 <div class="paper-container">
