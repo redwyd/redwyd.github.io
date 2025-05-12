@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is **Yidan Wang (Eden)** and I was born in June 2001. I am currently a third-year Ph.D. student at the **University of Chinese Academy of Sciences (UCAS)** (Institute of Information Engineering), under the supervision of Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing) and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree with a major in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
+Hello! My name is **Yidan Wang (Eden)** and I was born in June 2001. I am currently a third-year Ph.D. student at the **Institute of Information Engineering (IIE), University of Chinese Academy of Sciences (UCAS)**, under the supervision of Academician [Binxing Fang](https://en.wikipedia.org/wiki/Fang_Binxing)  and Professor [Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Previously, I received my B.Eng. degree with a major in [Cyberspace Security](https://cst.qd.sdu.edu.cn/) from [Shandong University](https://www.sdu.edu.cn/) in 2022.
 
 My research primarily focuses on two areas:
 - LLM watermarking techniques for AI safety
