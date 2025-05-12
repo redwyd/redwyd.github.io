@@ -98,7 +98,7 @@ What is now proved was once only imagined.
 }
 
 .intro-container a {
-  color: #632991;
+  color: #60b5ff;
   text-decoration: none;
   border-bottom: 1px dotted #632991;
   transition: all 0.2s ease;
