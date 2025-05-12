@@ -12,7 +12,7 @@ title                    : "Yidan Wang"
 title_separator          : "-"
 name                     : &name "Eden"
 description              : &description " Ph.D Student @ UCAS"
-url                      : https://panly2003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://redwyd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "redwyd/redwyd.github.io"
 
