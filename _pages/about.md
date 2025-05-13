@@ -76,7 +76,7 @@ Open to collaboration and happy to discuss any shared interests！
 
 # Motto
 <div class="intro-container">
-Yesterday is history, tomorrow is a mystery, but today is the present.
+Yesterday is history, tomorrow is mystery, but today is the present.
 </div>
 
 <p align="center" style="padding-top: 100px;"> 
