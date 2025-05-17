@@ -47,7 +47,7 @@ Open to collaboration and happy to discuss any shared interests！
 <div class="paper-text">
 <div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang</p>
-<p class="paper-venue">ACL 2025 (main)</p>
+<p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09921">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak">[Code]</a></p>
 </div>
 </div>
@@ -59,7 +59,7 @@ Open to collaboration and happy to discuss any shared interests！
 <div class="paper-text">
 <div class="paper-title">From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yubing Ren, Yanan Cao, Binxing Fang</p>
-<p class="paper-venue">ACL 2025 (main)</p>
+<p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
 </div>
 </div>
